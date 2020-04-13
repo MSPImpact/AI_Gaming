@@ -12,9 +12,9 @@ _Isn't it awesome?_ 😍
 <img src="https://github.com/MSPImpact/AI_Gaming/blob/master/photos_for_readme/Picture1.jpg" height="550" width="550">
 </p>  
 
-Tutorial: [AI-GAMING](https://www.youtube.com/watch?v=lqFmz5-OVA0&list=PLVACl7F2s1BehsJ5oXkNdMZaej_QV8CnS)<br>
-Website: [AI Gaming Website](https://www.aigaming.com/)
-Discord: [Azure Days Discord](http://bit.ly/AzureDays_Discord)
+- Tutorial: [AI-GAMING](https://www.youtube.com/watch?v=lqFmz5-OVA0&list=PLVACl7F2s1BehsJ5oXkNdMZaej_QV8CnS)<br>
+- Website: [AI Gaming Website](https://www.aigaming.com/)
+- Discord: [Azure Days Discord](http://bit.ly/AzureDays_Discord)
 <br />
 
 ------------------------------------------------------
