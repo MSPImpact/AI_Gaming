@@ -8,7 +8,7 @@ Could you code a bot to win a game?<br><br>
 _AIgaming.com is a platform that allows computer programs - also known as bots, to play each other at challenging games to win bitcoin._ _Isn't it awesome?_ 😍
 
 <p align="center">
-<img src="https://github.com/MSPImpact/AI_Gaming/blob/master/photos_for_readme/Picture1.jpg">
+<img src="https://github.com/MSPImpact/AI_Gaming/blob/master/photos_for_readme/Picture1.jpg" height="250" width="250">
 </p>  
 
 Tutorial: [AI-GAMING](https://www.youtube.com/watch?v=lqFmz5-OVA0&list=PLVACl7F2s1BehsJ5oXkNdMZaej_QV8CnS)<br>
