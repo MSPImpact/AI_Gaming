@@ -5,9 +5,11 @@ Could you code a bot to win a game?<br><br>
 - You will use your basic python knowledge to complete a simple bot, which will compete in a fun tournament.
 - You will learn about MS Azure, Computer Vision cognitive services, AI Gaming platform.
 <br />
-_AIgaming.com is a platform that allows computer programs - also known as bots, to play each other at challenging games to win bitcoin. Isn't it awesome?_ 😍
+_AIgaming.com is a platform that allows computer programs - also known as bots, to play each other at challenging games to win bitcoin._ _Isn't it awesome?_ 😍
 
-<![AI Gaming Poster](https://github.com/MSPImpact/AI_Gaming/blob/master/photos_for_readme/aigammingp.jpg)<br><br>>
+<p align="center">
+<img src="https://github.com/MSPImpact/AI_Gaming/blob/master/photos_for_readme/Picture1.jpg">
+</p>  
 
 Tutorial: [AI-GAMING](https://www.youtube.com/watch?v=lqFmz5-OVA0&list=PLVACl7F2s1BehsJ5oXkNdMZaej_QV8CnS)<br>
 Website: https://www.aigaming.com/
