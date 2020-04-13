@@ -13,12 +13,15 @@ _Isn't it awesome?_ 😍
 </p>  
 
 Tutorial: [AI-GAMING](https://www.youtube.com/watch?v=lqFmz5-OVA0&list=PLVACl7F2s1BehsJ5oXkNdMZaej_QV8CnS)<br>
-Website: https://www.aigaming.com/
+Website: [AI Gaming Website](https://www.aigaming.com/)
+Discord: [Azure Days Discord](http://bit.ly/AzureDays_Discord)
+<br />
+
 ------------------------------------------------------
 ### 1. Get the Azure account
-A. Steps to redeem voucher codes: [Process to redeem the voucher code](https://github.com/MSPImpact/AI_Gaming/blob/master/Process%20to%20redeem%20the%20voucher%20code.md)
-B. If voucher code is not available, you can use your .edu/.ac/any-college-domain email address.
-C. Otherwise, you can use your card for the trail sub. 
+- Steps to redeem voucher codes: [Process to redeem the voucher code](https://github.com/MSPImpact/AI_Gaming/blob/master/Process%20to%20redeem%20the%20voucher%20code.md)
+- If voucher code is not available, you can use your .edu/.ac/any-college-domain email address.
+- Otherwise, you can use your card for the trail sub. 
 
 ------------------------------------------------------
 ### 2. Steps for registering to tournament
