@@ -6,6 +6,9 @@ Could you code a bot to win a game?<br><br>
 
 Tutorial: [AI-GAMING](https://www.youtube.com/watch?v=lqFmz5-OVA0&list=PLVACl7F2s1BehsJ5oXkNdMZaej_QV8CnS)<br>
 Website: https://www.aigaming.com/
+------------------------------------------------------
+### Process to get the Azure account
+- Steps to redeem voucher codes: [Process to redeem the voucher code](https://github.com/MSPImpact/AI_Gaming/blob/master/Process%20to%20redeem%20the%20voucher%20code.md)
 
 ------------------------------------------------------
 ### Steps for registering to tournament
