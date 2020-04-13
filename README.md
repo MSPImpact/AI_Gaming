@@ -9,16 +9,16 @@ _AIgaming.com is a platform that allows computer programs - also known as bots, 
 _Isn't it awesome?_ 😍
 
 <p align="center">
-<img src="https://github.com/MSPImpact/AI_Gaming/blob/master/photos_for_readme/Picture1.jpg" height="450" width="450">
+<img src="https://github.com/MSPImpact/AI_Gaming/blob/master/photos_for_readme/Picture1.jpg" height="550" width="550">
 </p>  
 
 Tutorial: [AI-GAMING](https://www.youtube.com/watch?v=lqFmz5-OVA0&list=PLVACl7F2s1BehsJ5oXkNdMZaej_QV8CnS)<br>
 Website: https://www.aigaming.com/
 ------------------------------------------------------
 ### 1. Get the Azure account
-- Steps to redeem voucher codes: [Process to redeem the voucher code](https://github.com/MSPImpact/AI_Gaming/blob/master/Process%20to%20redeem%20the%20voucher%20code.md)
-- If voucher code is not available, you can use your .edu/.ac/any-college-domain email address.
-- Otherwise, you can use your card for the trail sub. 
+A. Steps to redeem voucher codes: [Process to redeem the voucher code](https://github.com/MSPImpact/AI_Gaming/blob/master/Process%20to%20redeem%20the%20voucher%20code.md)
+B. If voucher code is not available, you can use your .edu/.ac/any-college-domain email address.
+C. Otherwise, you can use your card for the trail sub. 
 
 ------------------------------------------------------
 ### 2. Steps for registering to tournament
@@ -50,4 +50,4 @@ Website: https://www.aigaming.com/
 20. If everything is fine, go to further editing and completing the code.
 
 ------------------------------------------------------
-#### Maintained by MPSImpact
+#### Maintained by MSPImpact
