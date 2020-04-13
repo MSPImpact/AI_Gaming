@@ -42,6 +42,7 @@ Website: https://www.aigaming.com/
 15. Go to resource and select on key.
 16. Copy the Key and get ready to paste in the AIGaming platform.
 
+------------------------------------------------------
 ### 4. Back to AI Gaming platform
 17. Create a new MS API Template file from _new_ section.
 18. Paste the key into the template code.
@@ -49,4 +50,4 @@ Website: https://www.aigaming.com/
 20. If everything is fine, go to further editing and completing the code.
 
 ------------------------------------------------------
-<Maintained by MPSImpact>
+#### Maintained by MPSImpact
