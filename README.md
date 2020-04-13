@@ -1,6 +1,11 @@
 ![AI Gaming Logo](https://github.com/MSPImpact/AI_Gaming/blob/master/photos_for_readme/aiWebsiteLogo.png)<br>
-#  Exclusive AI Gaming Tournament
+##  Exclusive AI Gaming Tournament
 Could you code a bot to win a game?<br><br>
+#### Highlights ✌
+- You will use your basic python knowledge to complete a simple bot, which will compete in a fun tournament.
+- You will learn about MS Azure, Computer Vision cognitive services, AI Gaming platform.
+<br />
+_AIgaming.com is a platform that allows computer programs - also known as bots, to play each other at challenging games to win bitcoin. Isn't it awesome?_ 😍
 
 <![AI Gaming Poster](https://github.com/MSPImpact/AI_Gaming/blob/master/photos_for_readme/aigammingp.jpg)<br><br>>
 
